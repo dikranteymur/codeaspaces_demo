@@ -15,3 +15,6 @@ print("ikinci degisiklik")
 func selam(isim: String) {
     print("Merhaba \(isim)")
 }
+
+
+// yapilna ucuncu degisiklik
