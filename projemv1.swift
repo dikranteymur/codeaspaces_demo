@@ -8,3 +8,6 @@ print("Merhaba Git!")
 for i in 0...12 {
     print(i)
 }
+
+// Yapilna ikinci degisiklik
+print("ikinci degisiklik")
