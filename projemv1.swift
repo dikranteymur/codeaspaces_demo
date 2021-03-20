@@ -18,3 +18,6 @@ func selam(isim: String) {
 
 
 // yapilna ucuncu degisiklik
+
+
+// git checkout loginForm komutu ile yeni bir loginForm brach'i olusturduk
