@@ -11,3 +11,5 @@ for i in 0...12 {
 
 // Yapilna ikinci degisiklik
 print("ikinci degisiklik")
+
+// yeni bilgiler eklendi
